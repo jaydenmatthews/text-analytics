@@ -1,8 +1,6 @@
-// COMP2521 21T2 Assignment 1
 // Dict.h ... interface to the Dictionary ADT
 // Stores words and their occurrence counts
 
-// !!! DO NOT MODIFY THIS FILE !!!
 
 #ifndef DICT_H
 #define DICT_H
