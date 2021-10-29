@@ -1,7 +1,4 @@
-// COMP2521 21T2 Assignment 1
 // stemmer.h ... interface to stemming module
-
-// !!! DO NOT MODIFY THIS FILE !!!
 
 #ifndef STEMMER_H
 #define STEMMER_H
