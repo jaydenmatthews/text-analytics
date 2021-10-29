@@ -1,8 +1,3 @@
-// COMP2521 21T2 Assignment 1
-// stemmer.c ... Porter stemming algorithm
-
-// !!! DO NOT MODIFY THIS FILE !!!
-
 // Author: Martin Porter
 // From: tartarus.org
 // Does not follow our style guidelines
