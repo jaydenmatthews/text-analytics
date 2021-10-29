@@ -1,4 +1,3 @@
-// COMP2521 21T2 Assignment 1
 // Dict.c ... implementation of the Dictionary ADT
 
 #include <assert.h>
