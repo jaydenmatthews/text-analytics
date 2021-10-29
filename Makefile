@@ -1,7 +1,3 @@
-# COMP2521 21T2 Assignment 1
-
-# !!! DO NOT MODIFY THIS FILE !!!
-
 CC = gcc
 CFLAGS = -Wall -Werror -g
 
